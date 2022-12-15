@@ -8,3 +8,7 @@ jobs:
         run: echo "hello"
       - name: print goodbye
         run: echo "done-byejj"
+      - name: print bolo
+        run: |
+          echo "hii"
+          echo "bii"
